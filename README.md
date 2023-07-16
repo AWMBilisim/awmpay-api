@@ -1,2 +1,2 @@
 # awmpay-api
-AWM Bilişim Payment Gateway
+Awm Bilişim Payment Gateway
